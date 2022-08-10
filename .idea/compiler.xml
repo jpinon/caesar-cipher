@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="caesar-cipher" target="1.5" />
+      <module name="caesar-cipher" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

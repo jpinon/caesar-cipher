@@ -6,7 +6,7 @@ public enum AsciiCode {
     LOWER_A (97),
     LOWER_Z (122);
 
-    private int value;
+    private final int value;
 
     AsciiCode(int value) {
         this.value = value;
